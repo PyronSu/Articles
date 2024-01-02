@@ -4,6 +4,7 @@
         {{-- first panel start --}}
             <div class="col-span-8 bg-zinc-400 h-screen">
 
+
             </div>
         {{-- first panel end --}}
 
