@@ -2,7 +2,7 @@
 @section('content')
     <div class="grid grid-cols-12">
         {{-- first panel start --}}
-            <div class="col-span-8 mx-7">
+            <div class="col-span-8 mx-7 ms-12">
                 {{-- tab bar start --}}
                     <div class="flex mb-4 border-b sticky top-0 bg-white border-gray-200 dark:border-gray-700 overflow-x-auto no-scrollbar">
                     <ul class="flex flex-nowrap -mb-px text-sm font-medium text-center" id="default-tab" data-tabs-toggle="#default-tab-content" role="tablist">
